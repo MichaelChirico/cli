@@ -1,4 +1,5 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://cli.r-lib.org/dev/CLAUDE.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/CODE_OF_CONDUCT.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/LICENSE-text.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/LICENSE.html</loc></url>
@@ -82,6 +83,7 @@
 <url><loc>https://cli.r-lib.org/dev/reference/cli_ul.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/reference/cli_vec.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/reference/cli_verbatim.html</loc></url>
+<url><loc>https://cli.r-lib.org/dev/reference/cli_with_progress_ticks.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/reference/code_highlight.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/reference/code_theme_list.html</loc></url>
 <url><loc>https://cli.r-lib.org/dev/reference/combine_ansi_styles.html</loc></url>
